@@ -1,21 +1,8 @@
-<div class="centered-images">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" alt="animated hello" class="animated-image"/>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="animated image" class="animated-image"/>
+<div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" alt="animated hello" width="300px" height="auto"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="animated image" width="250px" height="auto"/>
 </div>
 
-<style>
-.centered-images {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 100px; /* Space between images */
-}
-
-.animated-image {
-    width: 300px; /* Set equal width */
-    height: auto; /* Keeps aspect ratio */
-}
-</style>
 
 <h1 class="glitch" align="center">
 Ashish Kumar singh
@@ -678,4 +665,7 @@ I believe in crafting elegant solutions that make a difference, whether I'm buil
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
 </div>
+
+
+
 
