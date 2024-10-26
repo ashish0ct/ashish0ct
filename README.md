@@ -3,6 +3,9 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="animated image" width="250px" height="auto"/>
 </div>
 
+<p align="center">
+  <img src="ashish.gif" alt="Glitch Effect for Ashish Kumar Singh"/>
+</p>
 
 <h1 class="glitch" align="center">
 Ashish Kumar singh
