@@ -30,11 +30,6 @@ full name: Ashish Kumar Singh, and
 * [twitter (X)](https://x.com/a_k_singh8)
 * [discord](https://discord.gg/37SjsJ7W)
 
-<div style="display: flex; justify-content: center; padding: 40px">
-
-[![](https://visitcount.itsvg.in/api?id=ashishOct&icon=5&color=8)](https://visitcount.itsvg.in)
-
-</div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
