@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="ashish.gif" alt="Glitch Effect for Ashish Kumar Singh"/>
+  <img src="" alt="Glitch Effect for Ashish Kumar Singh"/>
 </p>
 
 <h1 class="glitch" align="center">
