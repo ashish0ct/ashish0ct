@@ -2,7 +2,7 @@
 
 # ~~This side~~ **ASHISH**
 #### full name: Ashish Kumar Singh, and
-#### <code>I believe in crafting elegant solutions that make a difference, whether I'm building web applications, exploring AI, or embarking on my path to conquer the goals as a <code>**Insight Explorer**</code>.</code>
+<code>I believe in crafting elegant solutions that make a difference, whether I'm building web applications, exploring AI, or embarking on my path to conquer the goals as a <code> **Insight Explorer** </code>.</code>
 
 ### CRAFTSMANSHIP ARSENEL
 **Operating System** -> windows, ios, android
