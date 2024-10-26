@@ -1,4 +1,4 @@
->hello ___ नमस्ते ___ bonjour ___  ciao ___ こんにちは
+>___ नमस्ते ___ hello ___ bonjour ___  ciao ___ こんにちは
 
 # ~~This side~~ **ASHISH**
 full name: Ashish Kumar Singh, and
