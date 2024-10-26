@@ -5,7 +5,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/ashish0ct/ashish0ct/refs/heads/main/assets/aks.html" alt="Animated SVG" />
+<img src="https://raw.githubusercontent.com/ashish0ct/ashish0ct/refs/heads/main/assets/aks.svg" alt="Animated SVG" />
 
 
 <h1 class="glitch" align="center">

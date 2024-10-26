@@ -1,0 +1,80 @@
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .glitch {
+            font-size: 2.3rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            fill: white;
+            font-family: sans-serif;
+        }
+
+        .glitch:nth-child(1) {
+            filter: url(#glitch-effect-1);
+        }
+
+        .glitch:nth-child(2) {
+            filter: url(#glitch-effect-2);
+            opacity: 0.8;
+        }
+
+        .glitch:nth-child(3) {
+            filter: url(#glitch-effect-3);
+            opacity: 0.8;
+        }
+
+        @keyframes glitch-animation {
+            0% {
+                filter: none;
+            }
+            14% {
+                filter: none;
+            }
+            15% {
+                filter: url(#glitch-effect-1);
+            }
+            49% {
+                filter: url(#glitch-effect-1);
+            }
+            50% {
+                filter: url(#glitch-effect-2);
+            }
+            99% {
+                filter: url(#glitch-effect-3);
+            }
+            100% {
+                filter: url(#glitch-effect-3);
+            }
+        }
+
+        .glitch {
+            animation: glitch-animation 0.5s infinite;
+        }
+    </style>
+
+    <defs>
+        <filter id="glitch-effect-1">
+            <feOffset dx="2" dy="-2" result="offset" />
+            <feFlood flood-color="rgba(255,0,0,0.75)" />
+            <feComposite in2="offset" operator="in" />
+            <feBlend in2="SourceGraphic" in="SourceGraphic" />
+        </filter>
+        <filter id="glitch-effect-2">
+            <feOffset dx="-2" dy="2" result="offset" />
+            <feFlood flood-color="rgba(0,255,0,0.75)" />
+            <feComposite in2="offset" operator="in" />
+            <feBlend in2="SourceGraphic" in="SourceGraphic" />
+        </filter>
+        <filter id="glitch-effect-3">
+            <feOffset dx="2" dy="2" result="offset" />
+            <feFlood flood-color="rgba(0,0,255,0.75)" />
+            <feComposite in2="offset" operator="in" />
+            <feBlend in2="SourceGraphic" in="SourceGraphic" />
+        </filter>
+    </defs>
+
+    <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle" class="glitch">Ashish Kumar Singh</text>
+    <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle" class="glitch">Ashish Kumar Singh</text>
+    <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle" class="glitch">Ashish Kumar Singh</text>
+
+    <image href="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" x="260" y="40" width="28" />
+</svg>
